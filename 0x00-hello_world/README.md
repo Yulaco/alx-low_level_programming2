@@ -1,6 +1,7 @@
-**0x00.-Hello, World**
+**0x00. C - Hello, World**
 
 First C programming language project.
+
 
 *0. Preprocessor*
 
